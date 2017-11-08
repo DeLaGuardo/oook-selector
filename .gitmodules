@@ -7,3 +7,4 @@
 [submodule "deps/oook"]
 	path = deps/oook
 	url = https://github.com/xquery-mode/Oook.git
+	branch = fix-nrepl-eval-for-recent-cider
